@@ -4,6 +4,8 @@
 ![Demo App](/public/screenshot-for-readme-2.png)
 ![Demo App](/public/screenshot-for-readme-3.png)
 
+## Live: https://react-admin-dashboard-indol-sigma.vercel.app/
+
 ### This is a admin dashboard ui kit built with:
 
 -   React
